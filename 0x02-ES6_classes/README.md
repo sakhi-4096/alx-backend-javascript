@@ -24,3 +24,8 @@ const person1 = new Person('Sakhie', 71);
 // Calling a method on the instance
 person1.sayHello();
 ```
+
+## Credits
+
+## Contact
+ * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com))
