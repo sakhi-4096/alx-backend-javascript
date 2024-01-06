@@ -15,4 +15,4 @@ Backend JavaScript with Node.js is used to handle server-side logic, manage data
 Some popular frameworks for building backend applications with JavaScript include Express.js, Koa.js, and Nest.js. These frameworks provide a structure and set of tools to make it easier to develop scalable and maintainable server-side code using JavaScript.
 
 ## Contact
- * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com))
+ * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com)
