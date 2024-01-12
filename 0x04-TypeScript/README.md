@@ -4,7 +4,7 @@ Is a superset of JavaScript that adds static typing to the language.
 ![Typescript](https://blogs.sap.com/wp-content/uploads/2021/11/image3.jpeg)
 
 ## Description
-TypeScript is a superset of JavaScript that adds static typing to the language. It extends JavaScript by providing optional static typing, interfaces, classes, and other features that enhance development at scale. TypeScript code is transpiled into plain JavaScript, making it compatible with existing JavaScript environments.
+TypeScript is a superset of JavaScript that adds static typing to the language. It extends JavaScript by providing optional static typing, interfaces, classes, and other features that enhance development at scale. TypeScript code is transpiled into plain JavaScript, making it compatible with existing JavaScript environments. Developers often choose TypeScript for larger codebases where the benefits of static typing, interfaces, and other features can help catch errors early, improve code maintainability, and enhance collaboration within development teams.
 
 ## Features
  * **Static Typing:** TypeScript introduces static typing, allowing developers to specify the types of variables, parameters, and return values. This helps catch potential type-related errors during development.
